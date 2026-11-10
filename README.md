@@ -9,7 +9,7 @@ developmer. i mostly write Rust tools for pulling apart and converting game file
 
 **tools**
 
-<img src="https://skillicons.dev/icons?i=rust,lua,js,nodejs,html,css,blender,git" alt="Rust, Lua, JavaScript, Node.js, HTML, CSS, Blender, Git" />
+<img src="https://skillicons.dev/icons?i=rust,lua,robloxstudio,js,nodejs,html,css,blender,git" alt="Rust, Lua, Roblox Studio, JavaScript, Node.js, HTML, CSS, Blender, Git" />
 
 **contact**
 
